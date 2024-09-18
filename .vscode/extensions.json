@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "austenc.tailwind-docs",
+    "bennycode.sort-everything",
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "ecmel.vscode-html-css",
+    "esbenp.prettier-vscode",
+    "gruntfuggly.todo-tree",
+    "jonnythemonke.tw-breakpoint",
+    "oderwat.indent-rainbow",
+    "streetsidesoftware.code-spell-checker",
+    "visualstudioexptteam.vscodeintellicode",
+    "zignd.html-css-class-completion"
+  ]
+}
