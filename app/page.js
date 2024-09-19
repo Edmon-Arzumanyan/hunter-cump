@@ -1,7 +1,10 @@
-import Image from "next/image";
+import Hero from "@/components/sections/Hero";
+import { home } from "@/data/home";
 
 export default function Home() {
   return (
-    <div></div>
+    <div>
+      <Hero data={home.hero} />
+    </div>
   );
 }
