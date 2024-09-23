@@ -11,6 +11,13 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      backgroundImage: {
+        camouflage: "url(/camouflage.png)",
+      },
+      fontFamily: {
+        heading: ["Orbitron", "sans-serif"],
+        content: ["Marcellus", "serif"],
+      },
     },
   },
   plugins: [],
